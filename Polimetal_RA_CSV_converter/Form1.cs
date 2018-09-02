@@ -13,6 +13,7 @@ using System.Windows.Forms;
 
 namespace Polimetal_RA_CSV_converter
 {
+    //final release 22/08/2018
     public partial class Form1 : Form
     {
         public Form1()
