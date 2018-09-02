@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimetal_RA", "Polimetal_RA\Polimetal_RA.csproj", "{121F260F-934A-4440-BF16-E11F6E39158A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolimetalRA_BL", "PolimetalRA_BL\PolimetalRA_BL.csproj", "{9EAD2F4F-6CAC-4F83-B3E5-CF826FD0A513}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolimetalRA_Data", "PolimetalRA_Data\PolimetalRA_Data.csproj", "{ACD498A5-9705-4419-8C96-156813799987}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimetal_RA_CSV_converter", "Polimetal_RA_CSV_converter\Polimetal_RA_CSV_converter.csproj", "{245F16D9-1C0A-4ACD-B150-C5C7E1411560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{121F260F-934A-4440-BF16-E11F6E39158A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{121F260F-934A-4440-BF16-E11F6E39158A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{121F260F-934A-4440-BF16-E11F6E39158A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{121F260F-934A-4440-BF16-E11F6E39158A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EAD2F4F-6CAC-4F83-B3E5-CF826FD0A513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EAD2F4F-6CAC-4F83-B3E5-CF826FD0A513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EAD2F4F-6CAC-4F83-B3E5-CF826FD0A513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EAD2F4F-6CAC-4F83-B3E5-CF826FD0A513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD498A5-9705-4419-8C96-156813799987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD498A5-9705-4419-8C96-156813799987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD498A5-9705-4419-8C96-156813799987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD498A5-9705-4419-8C96-156813799987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{245F16D9-1C0A-4ACD-B150-C5C7E1411560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{245F16D9-1C0A-4ACD-B150-C5C7E1411560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{245F16D9-1C0A-4ACD-B150-C5C7E1411560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{245F16D9-1C0A-4ACD-B150-C5C7E1411560}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EABD035-8ECF-4836-A270-6D54E82CF706}
+	EndGlobalSection
+EndGlobal
